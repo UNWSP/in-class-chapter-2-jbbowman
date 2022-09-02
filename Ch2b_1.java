@@ -2,7 +2,7 @@ public class Ch2b_1 {
 
     final int CONSTANT = 0;
     static int svar = 10;
-    public int pvar1 = 20
+    public int pvar1 = 20;
 
     public static void main(String[] args) {
         CONSTANT = 5;
