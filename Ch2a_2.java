@@ -13,6 +13,5 @@ public class Ch2a_2 {
         total = ((ticketAmount * TICKET) + FEE) * TAX;
 
         JOptionPane.showMessageDialog(null, String.format("Your total is $%,.2f", total));
-
     }
 }
